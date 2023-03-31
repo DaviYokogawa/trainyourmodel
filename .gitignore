@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# DS_Store
+.DS_Store
